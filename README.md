@@ -85,29 +85,27 @@ I am a passionate software engineer who loves building clean, scalable, and user
 <table width="100%">
   <tr>
     <td width="50%" valign="top">
-      <h4>🌐 Certificate Name 1</h4>
-      <p>Issued by LinkedIn Learning / Authority Name. This certification verifies advanced skills in frontend frameworks and modern architectures.</p>
-      <p>
-        <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" />
-        <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black" alt="React" />
-        <img src="https://img.shields.io/badge/Verified-Success?style=flat-square" alt="Verified" />
-      </p>
-      <a href="YOUR_LINKEDIN_CERTIFICATE_URL_1">View Certificate →</a>
-    </td>
-    <td width="50%" valign="top">
-      <h4>⚡ Certificate Name 2</h4>
-      <p>Issued by Cloud Authority / Enterprise Provider. Validates expertise in managing cloud infrastructure, microservices, and secure deployments.</p>
+      <h4>🌐 AWS Certified Solutions Architect – Associate</h4>
+      <p>Issued by Amazon Web Services. Validates expertise in deployment, management, and optimization of secure and robust applications on AWS cloud infrastructure.</p>
       <p>
         <img src="https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonwebservices&logoColor=white" alt="AWS" />
         <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" alt="Docker" />
         <img src="https://img.shields.io/badge/Verified-Success?style=flat-square" alt="Verified" />
       </p>
-      <a href="YOUR_LINKEDIN_CERTIFICATE_URL_2">View Certificate →</a>
+      <a href="https://www.linkedin.com/in/charuka-herath-503122354/details/certifications/">View Certificate →</a>
+    </td>
+    <td width="50%" valign="top">
+      <h4>⚡ Meta Front-End Developer Professional Certificate</h4>
+      <p>Issued by Meta / Coursera. Verifies advanced proficiency in modern UI frameworks, advanced JavaScript/React architecture, and user-centric web design practices.</p>
+      <p>
+        <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black" alt="React" />
+        <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" alt="JS" />
+        <img src="https://img.shields.io/badge/Verified-Success?style=flat-square" alt="Verified" />
+      </p>
+      <a href="https://www.linkedin.com/in/charuka-herath-503122354/details/certifications/">View Certificate →</a>
     </td>
   </tr>
 </table>
----
-
 ### 📰 Latest Articles & Updates
 
 <details>
