@@ -80,29 +80,30 @@ I am a passionate software engineer who loves building clean, scalable, and user
 ---
 -->
 
-### 📁 Featured Projects
+### 📜 Featured Certifications
 
 <table width="100%">
   <tr>
     <td width="50%" valign="top">
-      <h4>🌐 Project Alpha</h4>
-      <p>A decentralized, privacy-focused messaging application built using WebRTC, Next.js, and multi-layer encryption algorithms.</p>
+      <h4>🌐 Certificate Name 1</h4>
+      <p>Issued by LinkedIn Learning / Authority Name. Ee certification nimma advanced skills matthe modern technologies bagge vivara niduttade.</p>
       <p>
-        <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square" alt="Next" />
-        <img src="https://img.shields.io/badge/WebRTC-333333?style=flat-square" alt="WebRTC" />
-        <img src="https://img.shields.io/badge/Tailwind-38B2AC?style=flat-square" alt="Tailwind" />
+        <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" />
+        <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black" alt="React" />
+        <img src="https://img.shields.io/badge/Verified-Success?style=flat-square" alt="Verified" />
       </p>
-      <a href="#">View Repository →</a>
+      <a href="YOUR_LINKEDIN_CERTIFICATE_URL_1">View Certificate →</a>
     </td>
+
     <td width="50%" valign="top">
-      <h4>⚡ Project Beta</h4>
-      <p>High-performance, lightweight API gateway designed for microservices, handling up to 50k requests per second with Rust.</p>
+      <h4>⚡ Certificate Name 2</h4>
+      <p>Issued by Cloud Authority / Enterprise Provider. Ee certification cloud infrastructure matthe secure deployments daxatheya bagge ide.</p>
       <p>
-        <img src="https://img.shields.io/badge/Rust-000000?style=flat-square" alt="Rust" />
-        <img src="https://img.shields.io/badge/Redis-DC382D?style=flat-square" alt="Redis" />
-        <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square" alt="Docker" />
+        <img src="https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonwebservices&logoColor=white" alt="AWS" />
+        <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" alt="Docker" />
+        <img src="https://img.shields.io/badge/Verified-Success?style=flat-square" alt="Verified" />
       </p>
-      <a href="#">View Repository →</a>
+      <a href="YOUR_LINKEDIN_CERTIFICATE_URL_2">View Certificate →</a>
     </td>
   </tr>
 </table>
