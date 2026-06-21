@@ -82,8 +82,7 @@ I am a passionate software engineer who loves building clean, scalable, and user
 
 ### 📜 Featured Certifications
 
-<table width="100%">
-  <tr>
+<tr>
     <td width="50%" valign="top">
       <h4>🌐 Certificate Name 1</h4>
       <p>Issued by LinkedIn Learning / Authority Name. Ee certification nimma advanced skills matthe modern technologies bagge vivara niduttade.</p>
@@ -107,7 +106,6 @@ I am a passionate software engineer who loves building clean, scalable, and user
     </td>
   </tr>
 </table>
-
 ---
 
 ### 📰 Latest Articles & Updates
