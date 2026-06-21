@@ -8,7 +8,7 @@
   <a href="https://github.com/anuraghazra/github-readme-stats">
     <img src="https://img.shields.io/github/followers/yourusername?label=Followers&style=social" alt="GitHub followers" />
   </a>
-  <a href="https://linkedin.com/in/yourusername">
+  <a href="https://linkedin.com/in/charuka-herath-503122354">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
   <a href="https://twitter.com/yourusername">
