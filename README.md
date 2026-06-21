@@ -82,10 +82,11 @@ I am a passionate software engineer who loves building clean, scalable, and user
 
 ### 📜 Featured Certifications
 
-<tr>
+<table width="100%">
+  <tr>
     <td width="50%" valign="top">
       <h4>🌐 Certificate Name 1</h4>
-      <p>Issued by LinkedIn Learning / Authority Name. Ee certification nimma advanced skills matthe modern technologies bagge vivara niduttade.</p>
+      <p>Issued by LinkedIn Learning / Authority Name. This certification verifies advanced skills in frontend frameworks and modern architectures.</p>
       <p>
         <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" />
         <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black" alt="React" />
@@ -93,10 +94,9 @@ I am a passionate software engineer who loves building clean, scalable, and user
       </p>
       <a href="YOUR_LINKEDIN_CERTIFICATE_URL_1">View Certificate →</a>
     </td>
-
     <td width="50%" valign="top">
       <h4>⚡ Certificate Name 2</h4>
-      <p>Issued by Cloud Authority / Enterprise Provider. Ee certification cloud infrastructure matthe secure deployments daxatheya bagge ide.</p>
+      <p>Issued by Cloud Authority / Enterprise Provider. Validates expertise in managing cloud infrastructure, microservices, and secure deployments.</p>
       <p>
         <img src="https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonwebservices&logoColor=white" alt="AWS" />
         <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" alt="Docker" />
