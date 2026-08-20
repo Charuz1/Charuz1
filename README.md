@@ -5,12 +5,21 @@
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=25&duration=2500&pause=800&color=36BCF7&center=true&vCenter=true&width=750&lines=Information+Technology+Undergraduate;Full+Stack+Developer;MERN+Stack+Developer;React+%7C+Node.js+%7C+MongoDB;UI%2FUX+Enthusiast;Always+Learning+%26+Building+%F0%9F%9A%80" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=25&duration=2500&pause=800&color=36BCF7&center=true&vCenter=true&width=750&lines=Information+Technology+Undergraduate;Full+Stack+Developer;MERN+Stack+Developer;React+%7C+Node.js+%7C+MongoDB;UI%2FUX+Enthusiast;Always+Learning+%26+Building+%F0%9F%9A%80" alt="Typing Animation" />
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Charuz1&label=Profile%20Views&color=36BCF7&style=for-the-badge" />
-  <img src="https://img.shields.io/github/followers/Charuz1?label=Followers&style=for-the-badge&logo=github" />
+  <img src="https://komarev.com/ghpvc/?username=Charuz1&label=Profile%20Views&color=36BCF7&style=for-the-badge" alt="Profile Views" />
+  <img src="https://img.shields.io/github/followers/Charuz1?label=Followers&style=for-the-badge&logo=github" alt="GitHub Followers" />
+</p>
+
+<p align="center">
+  <a href="https://github.com/Charuz1">
+    <img src="https://img.shields.io/badge/GitHub-Charuz1-181717?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+  <a href="https://linkedin.com/in/charuka-herath-503122354">
+    <img src="https://img.shields.io/badge/LinkedIn-Charuka%20Herath-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
 </p>
 
 ---
@@ -18,7 +27,7 @@
 # 👋 Hi, I'm Charuka
 
 <p align="center">
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="400" />
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="380" alt="Coding Animation" />
 </p>
 
 <p align="center">
@@ -29,135 +38,293 @@
 
 ## 🚀 About Me
 
-I'm an **Information Technology undergraduate** passionate about
-building modern, responsive and user-friendly web applications.
+I'm an **Information Technology undergraduate** passionate about building
+modern, responsive, and user-friendly web applications.
 
-I enjoy combining **software development + UI/UX design** to create
-clean and meaningful digital experiences.
+I enjoy combining **software development and UI/UX design** to create
+clean, functional, and meaningful digital experiences.
 
-```text
-🎓 Information Technology Undergraduate
-💻 Full-Stack Web Development
-⚛️ MERN Stack
-🎨 UI/UX Design
-🧪 Software Testing
-🌱 Continuous Learning
-💼 Open to Internship Opportunities
-# 👋 Hi there, I'm Charuka
-
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=39D353&center=true&vCenter=true&width=450&lines=Full+Stack+Developer;Open+Source+Enthusiast;Tech+Writer;Problem+Solver" alt="Typing SVG" />
-</p>
-
-<p align="center">
-  <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img src="https://img.shields.io/github/followers/yourusername?label=Followers&style=social" alt="GitHub followers" />
-  </a>
-  <a href="https://linkedin.com/in/charuka-herath-503122354">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
-
-</p>
+- 🎓 Information Technology Undergraduate
+- 💻 Full-Stack Web Development Enthusiast
+- ⚛️ MERN Stack Developer
+- 🎨 UI/UX Design Enthusiast
+- 🔌 RESTful API Development
+- 🧪 Software Testing & QA
+- 🌱 Always learning new technologies
+- 💼 Open to IT / Software Engineering Internship Opportunities
 
 ---
 
-
-### 🛠️ Tech Stack & Tools
+## 🛠️ Tech Stack & Tools
 
 <table align="center" width="100%">
   <tr>
+
     <td align="center" width="25%" valign="top">
-      <h4>Frontend</h4>
-      <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JS" /><br/><br/>
-      <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TS" /><br/><br/>
-      <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" alt="React" /><br/><br/>
-      <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" alt="Next" />
+      <h3>💻 Languages</h3>
+
+      <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" />
+      <br/><br/>
+
+      <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" />
+      <br/><br/>
+
+      <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
+      <br/><br/>
+
+      <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+      <br/><br/>
+
+      <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+
     </td>
+
     <td align="center" width="25%" valign="top">
-      <h4>Backend</h4>
-      <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node" /><br/><br/>
-      <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" /><br/><br/>
-      <img src="https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white" alt="Go" /><br/><br/>
-      <img src="https://img.shields.io/badge/GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white" alt="GraphQL" />
+      <h3>🌐 Frontend</h3>
+
+      <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
+      <br/><br/>
+
+      <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
+      <br/><br/>
+
+      <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" />
+      <br/><br/>
+
+      <img src="https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white" />
+
     </td>
+
     <td align="center" width="25%" valign="top">
-      <h4>DevOps & DB</h4>
-      <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" /><br/><br/>
-      <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" alt="Postgres" /><br/><br/>
-      <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" alt="Mongo" /><br/><br/>
-      <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonwebservices&logoColor=white" alt="AWS" />
+      <h3>⚙️ Backend & DB</h3>
+
+      <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
+      <br/><br/>
+
+      <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" />
+      <br/><br/>
+
+      <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" />
+      <br/><br/>
+
+      <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
+
     </td>
+
     <td align="center" width="25%" valign="top">
-      <h4>Tools & Design</h4>
-      <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" /><br/><br/>
-      <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" alt="Figma" /><br/><br/>
-      <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux" /><br/><br/>
-      <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white" alt="VS Code" />
+      <h3>🎨 Tools & Design</h3>
+
+      <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" />
+      <br/><br/>
+
+      <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+      <br/><br/>
+
+      <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+      <br/><br/>
+
+      <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white" />
+      <br/><br/>
+
+      <img src="https://img.shields.io/badge/Photoshop-31A8FF?style=for-the-badge&logo=adobephotoshop&logoColor=white" />
+
     </td>
+
   </tr>
 </table>
 
 ---
-<!--
-### 📊 GitHub Analytics
+
+# 🚀 Featured Projects
+
+## 🛍️ Nelum Fashion Website
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=tokyonight&count_private=true" alt="GitHub Stats" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=tokyonight" alt="Top Languages" width="48%" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=2500&pause=800&color=6C63FF&center=true&vCenter=true&width=600&lines=Modern+Fashion+Web+Application;Responsive+%7C+Modern+%7C+User-Friendly" />
 </p>
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=yourusername&theme=tokyonight" alt="GitHub Streak" width="97%" />
-</p>
+A modern fashion web application designed with a clean and responsive
+user interface.
 
----
--->
+**Tech Stack**
 
-### 📜 Featured Certifications
+`React.js` `Node.js` `Express.js` `MongoDB` `Tailwind CSS`
 
-<table width="100%">
-  <tr>
-    <td width="50%" valign="top">
-      <h4>🌐 AWS Certified Solutions Architect – Associate</h4>
-      <p>Issued by Amazon Web Services. Validates expertise in deployment, management, and optimization of secure and robust applications on AWS cloud infrastructure.</p>
-      <p>
-        <img src="https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonwebservices&logoColor=white" alt="AWS" />
-        <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" alt="Docker" />
-        <img src="https://img.shields.io/badge/Verified-Success?style=flat-square" alt="Verified" />
-      </p>
-      <a href="https://www.linkedin.com/in/charuka-herath-503122354/details/certifications/">View Certificate →</a>
-    </td>
-    <td width="50%" valign="top">
-      <h4>⚡ Meta Front-End Developer Professional Certificate</h4>
-      <p>Issued by Meta / Coursera. Verifies advanced proficiency in modern UI frameworks, advanced JavaScript/React architecture, and user-centric web design practices.</p>
-      <p>
-        <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black" alt="React" />
-        <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" alt="JS" />
-        <img src="https://img.shields.io/badge/Verified-Success?style=flat-square" alt="Verified" />
-      </p>
-      <a href="https://www.linkedin.com/in/charuka-herath-503122354/details/certifications/">View Certificate →</a>
-    </td>
-  </tr>
-</table>
-### 📰 Latest Articles & Updates
+🌐 **Live Demo**
 
-<details>
-  <summary><b>📖 Expand to view recent blog posts</b></summary>
-  <br/>
-  <ul>
-    <li><a href="#">Mastering React Server Components: A Comprehensive Guide</a> - <i>Published on Dev.to</i></li>
-    <li><a href="#">Why We Migrated Our Microservices API Gateway to Rust</a> - <i>Published on Medium</i></li>
-    <li><a href="#">Understanding Distributed Systems Under the Hood</a> - <i>Published on Personal Blog</i></li>
-  </ul>
-</details>
+https://nelum-fashion.vercel.app/
+
+💻 **Source Code**
+
+https://github.com/Charuz1/nelum-fashion-website
 
 ---
 
+## 🇯🇵 Nihongo – Japanese Learning Website
+
+An interactive Japanese learning platform designed to help students
+prepare for the **JLPT N5 examination**.
+
+**Tech Stack**
+
+`MongoDB` `Express.js` `React.js` `Node.js` `Tailwind CSS`
+
+✨ Interactive Learning  
+📚 Educational Content  
+🎮 Gamified Experience  
+📱 Responsive Design
+
+---
+
+## 🌦️ Weather Hub
+
+A responsive weather application that displays real-time weather
+information using a Weather API.
+
+**Tech Stack**
+
+`React.js` `Tailwind CSS` `REST API`
+
+---
+
+## 📚 Book Recommendation App
+
+A web application that provides book recommendations using RESTful APIs.
+
+**Tech Stack**
+
+`React.js` `Tailwind CSS` `REST API`
+
+---
+
+## 🔐 Life Vault
+
+A personal dashboard application designed to organize and manage
+personal information through a clean and user-friendly interface.
+
+**Tech Stack**
+
+`React.js` `JavaScript` `Tailwind CSS`
+
+---
+
+# 🎨 UI/UX Design
+
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&section=footer" width="100%" alt="Footer Banner" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=2500&pause=800&color=F24E1E&center=true&vCenter=true&width=650&lines=Designing+Clean+Interfaces;Creating+Better+User+Experiences;Turning+Ideas+Into+Interfaces+%F0%9F%8E%A8" alt="UI UX Animation" />
+</p>
+
+### My UI/UX Interests
+
+- 🎨 Figma
+- 📐 Wireframing
+- 🖥️ High-Fidelity Mockups
+- 📱 Responsive Design
+- 🧩 UI Components
+- 🎯 Prototyping
+- 🧠 User-Centered Design
+- ✨ Modern Web Interfaces
+
+---
+
+# 🧪 Quality Assurance
+
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=2500&pause=800&color=00C853&center=true&vCenter=true&width=600&lines=Testing+%7C+Finding+Bugs+%7C+Improving+Quality" />
+</p>
+
+- ✅ Manual Testing
+- 🔐 Login & Authentication Testing
+- 🔄 Regression Testing
+- 💨 Smoke Testing
+- 🧩 Integration Testing
+- 🐞 Bug Reporting
+- 📋 Test Case Design
+- ✔️ User Acceptance Testing
+
+---
+
+# 📊 GitHub Analytics
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Charuz1&show_icons=true&theme=tokyonight&hide_border=true" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Charuz1&layout=compact&theme=tokyonight&hide_border=true" width="48%" />
 </p>
 
 <p align="center">
-  ⭐️ From <a href="https://github.com/yourusername">Charuz1</a> with ❤️
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Charuz1&theme=tokyonight&hide_border=true" width="80%" />
 </p>
 
+---
+
+# 📈 Contribution Activity
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Charuz1&theme=tokyo-night&hide_border=true&area=true" width="100%" />
+</p>
+
+---
+
+# 🎯 My Goals
+
+<p align="center">
+
+🚀 Improve Full-Stack Development
+&nbsp;&nbsp;•&nbsp;&nbsp;
+⚛️ Build More MERN Applications
+&nbsp;&nbsp;•&nbsp;&nbsp;
+🎨 Improve UI/UX Skills
+&nbsp;&nbsp;•&nbsp;&nbsp;
+🧪 Improve QA Skills
+&nbsp;&nbsp;•&nbsp;&nbsp;
+💼 Gain Industry Experience
+
+</p>
+
+---
+
+# 🌱 Currently Learning
+
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=2500&pause=800&color=36BCF7&center=true&vCenter=true&width=600&lines=Learning+%26+Improving+Every+Day;Building+Better+Applications;Exploring+Modern+Web+Technologies" />
+</p>
+
+---
+
+# 🤝 Let's Connect
+
+<p align="center">
+
+<a href="https://github.com/Charuz1">
+  <img src="https://img.shields.io/badge/GitHub-Charuz1-181717?style=for-the-badge&logo=github&logoColor=white" />
+</a>
+
+<a href="https://linkedin.com/in/charuka-herath-503122354">
+  <img src="https://img.shields.io/badge/LinkedIn-Charuka%20Herath-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
+
+</p>
+
+---
+
+# 💼 Open to Internship Opportunities
+
+<p align="center">
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=3000&pause=1000&color=36BCF7&center=true&vCenter=true&width=700&lines=Looking+for+an+IT+Internship;Ready+to+Learn+%26+Contribute;Let's+Build+Something+Amazing+Together+%F0%9F%9A%80" />
+
+</p>
+
+---
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:36BCF7,50:6C63FF,100:8A2BE2&height=150&section=footer&animation=fadeIn" width="100%" alt="Footer Banner" />
+</p>
+
+<p align="center">
+  ⭐ <b>Thanks for visiting my profile!</b> ⭐
+</p>
+
+<p align="center">
+  <i>Built with 💙 by Charuka Herath</i>
+</p>
