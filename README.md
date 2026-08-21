@@ -44,9 +44,7 @@ clean and meaningful digital experiences.
 - 🌱 Always Learning New Technologies
 - 💼 Open to Internship Opportunities
 
----
 
-## 🛠️ Tech Stack & Tools
 ## 🛠️ Tech Stack & Tools
 
 ### 💻 Programming Languages
