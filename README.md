@@ -117,7 +117,7 @@ and user-friendly interface.
   </a>
 </p>
 
----
+
 
 ### 🇯🇵 Nihongo – Japanese Learning Platform
 
@@ -144,7 +144,7 @@ information using an external Weather API.
 
 `React.js` `Tailwind CSS` `REST API`
 
----
+
 
 ### 📚 Book Recommendation App
 
@@ -155,7 +155,7 @@ book recommendations through a simple and responsive interface.
 
 `React.js` `Tailwind CSS` `REST API`
 
----
+
 
 ### 🔐 Life Vault
 
@@ -184,7 +184,7 @@ I enjoy designing clean, modern, and responsive interfaces using:
 - 🎯 Prototyping
 - 🧠 User-Centered Design
 
----
+
 
 ## 🧪 Quality Assurance
 
@@ -199,7 +199,7 @@ I'm interested in software quality and testing, including:
 - 📋 Test Case Design
 - ✔️ User Acceptance Testing
 
----
+
 
 ## 📊 GitHub Analytics
 
@@ -213,7 +213,7 @@ I'm interested in software quality and testing, including:
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Charuz1&theme=tokyonight&hide_border=true" width="80%" alt="GitHub Streak" />
 </p>
 
----
+
 
 ## 📈 Contribution Activity
 
@@ -221,7 +221,7 @@ I'm interested in software quality and testing, including:
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Charuz1&theme=tokyo-night&hide_border=true&area=true" width="100%" alt="Contribution Graph" />
 </p>
 
----
+
 
 ## 🎯 Current Goals
 
@@ -239,7 +239,7 @@ I'm interested in software quality and testing, including:
 
 </p>
 
----
+
 
 ## 🌱 Currently Learning
 
@@ -247,7 +247,7 @@ I'm interested in software quality and testing, including:
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=2500&pause=700&color=36BCF7&center=true&vCenter=true&width=650&lines=Learning+Modern+Web+Development;Improving+MERN+Stack+Skills;Exploring+Better+UI%2FUX+Practices;Building+Real+World+Projects+%F0%9F%9A%80" alt="Learning Animation" />
 </p>
 
----
+
 
 ## 💼 Open to Opportunities
 
@@ -257,7 +257,7 @@ I'm interested in software quality and testing, including:
 
 </p>
 
----
+
 
 ## 🤝 Let's Connect
 
@@ -273,7 +273,7 @@ I'm interested in software quality and testing, including:
 
 </p>
 
----
+
 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:36BCF7,50:6C63FF,100:8A2BE2&height=150&section=footer&animation=fadeIn" width="100%" alt="Footer Banner" />
